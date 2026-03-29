@@ -62,10 +62,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MOHAMEDHESMAM8&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="Mohamed's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOHAMEDHESMAM8&theme=radical&hide_border=true&background=0D1117" alt="Mohamed's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedhesmam8&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Mohamed's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhesmam8&theme=radical&hide_border=true" alt="Mohamed's GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMEDHESMAM8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhesmam8&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
 </p>
